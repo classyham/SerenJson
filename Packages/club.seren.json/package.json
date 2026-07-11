@@ -1,0 +1,13 @@
+{
+  "name": "club.seren.json",
+  "displayName": "_SEREN JSON",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Core ",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Classyham",
+    "email": "vpmcontact@classyham.com",
+    "url": "https://seren.club"
+  }
+}
