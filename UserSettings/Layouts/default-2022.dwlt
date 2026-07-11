@@ -435,7 +435,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Packages/club.seren.json/Runtime
+    - Packages/club.seren.json
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -443,16 +443,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Packages/club.seren.json/Runtime
+  - Packages/club.seren.json
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Projects\SerenAccess\SerenJson
+  m_LastProjectPath: D:\Projects\SerenWorld\SerenJson
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: d6620000
-    m_LastClickedID: 25302
-    m_ExpandedIDs: 00000000ac600000a462000000ca9a3bffffff7f
+    m_SelectedIDs: a4620000
+    m_LastClickedID: 25252
+    m_ExpandedIDs: 00000000ac600000a4620000ae63000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -622,7 +622,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e6230000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: dafaffff
       m_RenameOverlay:

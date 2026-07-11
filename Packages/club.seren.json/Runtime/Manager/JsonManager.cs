@@ -29,7 +29,7 @@ namespace SerenJson
 
         [Header("Listeners")]
         [Tooltip("UdonBehaviour scripts that will receive events when the world state changes. The event to override is OnWorldStateChanged.")]
-        [SerializeField] private JsonListenerBase[] ListenerMappings;
+        [SerializeField] private UdonBehaviour[] ListenerMappings;
         
         [Header("Debug")]
         [Tooltip("Enable debug logging to the console.")]
